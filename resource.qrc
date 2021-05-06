@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>draw-circle-icon.png</file>
+        <file>draw-icon.png</file>
+        <file>draw-line-icon.png</file>
+        <file>draw-rectangle-icon.png</file>
+        <file>group-icon.png</file>
+        <file>open-icon.png</file>
+        <file>Paint-icon.png</file>
+        <file>pick-icon.png</file>
+        <file>save-icon.png</file>
+        <file>ungroup-icon.png</file>
+        <file>close-icon.png</file>
+        <file>toolbox-icon.png</file>
+        <file>image-icon.png</file>
+        <file>cube-icon.png</file>
+        <file>divide-icon.png</file>
+        <file>equal-icon.png</file>
+        <file>integration-icon.png</file>
+        <file>minus-icon.png</file>
+        <file>multiply-icon.png</file>
+        <file>percentage-icon.png</file>
+        <file>pi-icon.png</file>
+        <file>plus-icon.png</file>
+        <file>root-icon.png</file>
+    </qresource>
+</RCC>
